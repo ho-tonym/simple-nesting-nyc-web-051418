@@ -15,7 +15,8 @@ def hopper
           :languages => ["C"]
         }
      }
-
+programmer_hash[dennis_ritchie:][known_for:] = "COBOL"
+programmer_hash[dennis_ritchie:][languages:] = ["COBOL", "FORTRAN"]
 
 end
 
